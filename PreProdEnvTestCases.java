@@ -1,10 +1,7 @@
 package com.netenrich;
-
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
-
 import org.junit.Test;
-
 public class PreProdEnvTestCases {
 	@Test
 	public void Databasetest(){
